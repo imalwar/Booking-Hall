@@ -1,0 +1,41 @@
+As a Customer
+
+I want to Cancel the hall for the function 
+
+So that i can cancel hall successfully
+
+Scope 
+
+custoomer should be login  successfully
+
+customer should be able to change the hall
+
+it should work in all the websites
+
+it should also work in mobile
+
+Pre condition
+
+customer should have there own gmail and mobile number 
+
+so thart they can book the hall through there phone
+
+they will get successfull message
+
+Acceptance Criteria
+
+Scenario-1
+
+User should cancel the hall successfully
+
+Book the hall near there locality
+
+They need all the fecilities in that hall 
+
+Scenario-2
+
+User should pre book the function hall 
+
+they want to postpond the function
+
+They did not get any hall near there location
